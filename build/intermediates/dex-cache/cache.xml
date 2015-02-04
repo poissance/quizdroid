@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Hudson\AndroidStudioProjects\QuizDroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jar="C:\Users\Hudson\AndroidStudioProjects\quizdroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Hudson\AndroidStudioProjects\QuizDroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d50b2457fbe622c3ad8cf69c3a01d3bda0278294.jar" />
+        <dex dex="C:\Users\Hudson\AndroidStudioProjects\quizdroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-bcc24184ab7a668e2198706cdfb993d1f9263d31.jar" />
     </item>
     <item
-        jar="C:\Users\Hudson\AndroidStudioProjects\QuizDroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="C:\Users\Hudson\AndroidStudioProjects\quizdroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Hudson\AndroidStudioProjects\QuizDroid\app\build\intermediates\pre-dexed\debug\classes-e0fa40e511a122ec6e31804ac0cf70e867d27a50.jar" />
+        <dex dex="C:\Users\Hudson\AndroidStudioProjects\quizdroid\app\build\intermediates\pre-dexed\debug\classes-99004f53c89541bcb1885e00a4f674163d728087.jar" />
     </item>
     <item
         jar="C:\Users\Hudson\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\Hudson\AndroidStudioProjects\QuizDroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e72a63f1628705f7761376eb7fa59a88668e9835.jar" />
+        <dex dex="C:\Users\Hudson\AndroidStudioProjects\quizdroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e72a63f1628705f7761376eb7fa59a88668e9835.jar" />
     </item>
     <item
-        jar="C:\Users\Hudson\AndroidStudioProjects\QuizDroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jar="C:\Users\Hudson\AndroidStudioProjects\quizdroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Hudson\AndroidStudioProjects\QuizDroid\app\build\intermediates\pre-dexed\debug\classes-2a809e78aaf19ceaad1799d9fea097ad33ceb917.jar" />
+        <dex dex="C:\Users\Hudson\AndroidStudioProjects\quizdroid\app\build\intermediates\pre-dexed\debug\classes-1a384b30374d0f7e8db0f891da6a3a1546ee4504.jar" />
     </item>
 
 </items>

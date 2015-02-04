@@ -12,5 +12,12 @@
     <string name="topic_description_placeholder">Description Placeholder</string>
     <string name="topic_number_questions_placeholder">0 Questions</string>
     <string name="begin">Begin</string>
+    <string name="title_activity_questions_page">QuestionsPage</string>
+    <string name="question">Question Placeholder</string>
+    <string name="question_number">Question Number Placeholder</string>
+    <string name="choice">Choice Placeholder</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_results">Results</string>
+    <string name="next">Next</string>
 
 </resources>

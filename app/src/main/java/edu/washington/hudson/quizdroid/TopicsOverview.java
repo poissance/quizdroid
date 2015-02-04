@@ -24,7 +24,7 @@ public class TopicsOverview extends ActionBarActivity {
 
         //set page contents
         Intent setContent = getIntent();
-        ArrayList<String> topicContent = setContent.getStringArrayListExtra("TopicContent");
+        final ArrayList<String> topicContent = setContent.getStringArrayListExtra("TopicContent");
         TextView temp = (TextView) findViewById(R.id.topic_title);
         temp.setText(topicContent.get(0));
         temp = (TextView) findViewById(R.id.topic_description);
@@ -37,12 +37,20 @@ public class TopicsOverview extends ActionBarActivity {
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent toQuestionsPage = new Intent(TopicsOverview.this, QuestionsPage.class);
                 //math
+                if(topicContent.get(0).equals("Math")) {
+                    toQuestionsPage.putExtra("Flag", "Math");
+                }
                 //physics
+                if(topicContent.get(0).equals("Physics")) {
+                    toQuestionsPage.putExtra("Flag","Physics");
+                }
                 //marvel
-                Intent nextActivity = new Intent(MainActivity.this, MainActivity2.class);
-                nextActivity.putExtra();
-                startActivity(nextActivity);
+                if(topicContent.get(0).equals("Marvel Super Heroes")) {
+                    toQuestionsPage.putExtra("Flag","Physics");
+                }
+                startActivity(toQuestionsPage);
                 finish();
             }
         });
