@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment_overview" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="edu.washington.hudson.quizdroid2.Overview">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TextView android:text="@string/topic_title_placeholder" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/topic_title" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/topic_description_placeholder"
+            android:id="@+id/topic_description" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/topic_number_questions_placeholder"
+            android:id="@+id/topic_num_questions" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/begin"
+            android:id="@+id/buttonf1" />
+    </LinearLayout>
+
+</FrameLayout>
