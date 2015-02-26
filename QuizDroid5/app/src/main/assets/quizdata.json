@@ -1,0 +1,19 @@
+{
+    "Questions": {
+        "Math": [
+			{"Question": "What is 1 + 1?", "Answers": ["1","2","3","4"], "Correct": 1},
+			{"Question": "Who was the famous mathematician that created the coordinate system?", "Answers":["Isaac Newton","Archimedes","Euchlid","Rene Descartes"], "Correct": 3}
+		],
+        "Physics": [
+			{"Question": "What is the equation for individual net force on an object?", "Answers": ["F = ma","P = mv^2","G = m/2","F = mv"], "Correct": 0},
+			{"Question": "Why is it easier to float in salt water than fresh water?", "Answers": ["Salt water is less dense than fresh water","Salt water is more dense than fresh water","Fresh water is less dense than salt water","Fresh water is more dense than salt walter"],"Correct": 1},
+			{"Question": "What is the wire inside of a light bulb called?", "Answers": ["The Illuminator","The Brightwire","The Filament", "The Copperglow"],"Correct": 2}
+		],
+        "Marvel Super Heroes": [
+			{"Question":"How heavy is Mjolnir, Thor's hammer?", "Answers": ["9001 kg","42.4 lbs","20.5 lbs","100.8 kg"], "Correct": 1},
+			{"Question":"What is the name of Hulk's alter ego?", "Answers": ["Bane Dorrance","Bruce Banner","Robert Banner","Robert Bruce Banner"], "Correct": 3},
+			{"Question":"Who is the actor that played Captain America in Winter Soldier?", "Answers":["Chris Evans","Chris Pratt","Chris Rock","Chris Matthews"], "Correct": 1},
+			{"Question": "What is Batman's real name?", "Answers":["Bruce Wane","Bruce the Shark","Bruce Banner","Batman is not a Marvel Superhero so I am not going to answer this question."], "Correct": 3}
+		]
+    }
+}
